@@ -49,7 +49,7 @@ Includes:
 - 91% in Class 12th  
 - JEE Mains 2024 – 98.4 percentile  
 - 3× NDA written exam qualified  
-- Hackathon achievements (Innotech Winner, SIH participant)  
+- Hackathon achievements (Innotech Department level Winner, SIH participant)  
 - Your goal to become an **AI/ML Engineer**
 
 ---
