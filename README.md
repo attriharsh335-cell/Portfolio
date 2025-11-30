@@ -23,13 +23,13 @@ Portfolio/
 │── index.html # Main website file (all pages/sections)
 │── style.css # Styling for all sections
 │── HarshPhoto.jpg # Profile picture
-|-image1,image2,image3.jpg # output
+|-image1,image2,image3.jpg are respectively # output
 
 ---
 
 # 📄 Pages / Sections Included
 
-Your website contains **five main sections**, all described below:
+My website contains **five main sections**, all described below:
 
 ---
 
@@ -45,18 +45,18 @@ Your website contains **five main sections**, all described below:
 
 Includes:
 
-- Your educational background  
+- My educational background  
 - 91% in Class 12th  
 - JEE Mains 2024 – 98.4 percentile  
 - 3× NDA written exam qualified  
 - Hackathon achievements (Innotech Department level Winner, SIH participant)  
-- Your goal to become an **AI/ML Engineer**
+- My aim to become an **AI/ML Engineer**
 
 ---
 
 ## 🧠 3. Skills Page
 
-Shows your skills with styled skill badges:
+My skills with styled skill badges:
 
 - C Programming  
 - Python Basics  
@@ -69,7 +69,7 @@ Shows your skills with styled skill badges:
 
 ## 📂 4. Projects Page
 
-Displays your projects in modern card layout:
+Displays My projects in modern card layout:
 
 - C Programming Projects  
 - Basic Portfolio  
