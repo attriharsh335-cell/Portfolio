@@ -23,6 +23,7 @@ Portfolio/
 │── index.html # Main website file (all pages/sections)
 │── style.css # Styling for all sections
 │── HarshPhoto.jpg # Profile picture
+|-image1,image2,image3.jpg # output
 
 ---
 
